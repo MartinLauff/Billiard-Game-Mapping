@@ -1,3 +1,13 @@
+## Billiard Game Mapping
+
+The repository holds all processes used for detecting/classifying billiard balls and segmentation of the surface play area of a table.
+
+It contains Jupyter notebooks for:
+
+1. Dataset Preprocessing.
+2. YOLO detection/segmentation model training.
+3. Mapping of billiard balls from image to numerical form via Homography.
+
 ### Ball Classes
 
 - 0 --> cue_ball
@@ -5,10 +15,6 @@
 - 2 --> stripe
 - 3 --> solid
 
-### Corner Classes
+### Table Class
 
-- 0 --> corner_tl
-- 1 --> corner_tr
-- 2 --> corner_br
-- 3 --> corner_bl
-"# Billiard-Game-Mapping" 
+- 0 --> surface play area
