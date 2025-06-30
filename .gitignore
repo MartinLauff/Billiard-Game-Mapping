@@ -1,0 +1,11 @@
+ball_dataset
+dataset_manipulations/*.txt
+models
+new_table_dataset
+output
+pocket_dataset
+runs
+table_dataset
+test_data
+train/*.yaml
+/*.pt
