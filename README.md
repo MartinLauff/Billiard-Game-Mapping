@@ -18,3 +18,7 @@ It contains Jupyter notebooks for:
 ### Table Class
 
 - 0 --> surface play area
+
+### Example
+
+![Mapping_Example](https://github.com/user-attachments/assets/7edc9096-f2cf-4389-acd9-7763d4974103)
