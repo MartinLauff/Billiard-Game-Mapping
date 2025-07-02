@@ -9,3 +9,5 @@ table_dataset
 test_data
 train/*.yaml
 /*.pt
+video_input
+video_output
